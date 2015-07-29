@@ -1,0 +1,1 @@
+A sentimental analyzer based on naive-based algorithm.
